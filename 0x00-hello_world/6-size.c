@@ -1,11 +1,8 @@
 #include <stdio.h>
-
 /**
  * main - C program that prints the size of various types
- *
  * Return: 0 (Success)
  */
-
 int main(void)
 {
 	char a;
