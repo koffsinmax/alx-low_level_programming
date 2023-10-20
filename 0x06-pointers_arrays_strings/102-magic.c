@@ -1,4 +1,10 @@
 #include <stdio.h>
+/**
+ * main - the program prints a code followed by a new line
+ *
+ * Retur: 0
+ *
+ */
 
 int main(void)
 {
